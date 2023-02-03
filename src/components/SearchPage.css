@@ -1,0 +1,30 @@
+.searchpage{
+
+}
+
+
+.searchpage_data{
+    padding: 20px;
+}
+
+
+.searchpage_data > p {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+
+.searchpage_data > button {
+    border-radius: 30px;
+    text-transform: inherit;
+    margin-bottom: 5px;
+}
+
+
+.img-bg-search{
+    position: absolute;
+    margin-top: -149px;
+    height: 100vh;
+    width: 100vw;
+    opacity: 0.65;
+}
