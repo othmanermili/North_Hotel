@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/North_Hotel/static/css/main.16624de5.css",
+    "main.js": "/North_Hotel/static/js/main.1cafde70.js",
+    "static/js/787.c1112931.chunk.js": "/North_Hotel/static/js/787.c1112931.chunk.js",
+    "static/media/p2.jpg": "/North_Hotel/static/media/p2.d0616fa207278bfab977.jpg",
+    "static/media/p3.jpg": "/North_Hotel/static/media/p3.cec41a8c3dd6bf8ce01c.jpg",
+    "static/media/hotel-bg.png": "/North_Hotel/static/media/hotel-bg.4bc1bf59af456bdab6c3.png",
+    "static/media/hotel-bg-2.png": "/North_Hotel/static/media/hotel-bg-2.52a568ffb733fa893483.png",
+    "static/media/p1.jpg": "/North_Hotel/static/media/p1.63564efb7017d9823ea6.jpg",
+    "static/media/Logo.png": "/North_Hotel/static/media/Logo.74a5d6c88c21f08528c5.png",
+    "static/media/p4.png": "/North_Hotel/static/media/p4.7461245d82f5d3d9d5d5.png",
+    "index.html": "/North_Hotel/index.html",
+    "main.16624de5.css.map": "/North_Hotel/static/css/main.16624de5.css.map",
+    "main.1cafde70.js.map": "/North_Hotel/static/js/main.1cafde70.js.map",
+    "787.c1112931.chunk.js.map": "/North_Hotel/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16624de5.css",
+    "static/js/main.1cafde70.js"
+  ]
+}
